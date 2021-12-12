@@ -10,7 +10,7 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
  *
- * @author USUARIO
+ * @author JUAN JIMENEZ
  */
 public interface InterfaceChocolate extends MongoRepository<Chocolate, String> {
     

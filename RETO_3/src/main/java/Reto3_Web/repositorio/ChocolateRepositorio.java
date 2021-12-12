@@ -13,7 +13,7 @@ import Reto3_Web.interfaces.InterfaceChocolate;
 
 /**
  *
- * @author USUARIO
+ * @author JUAN JIMENEZ
  */
 @Repository
 public class ChocolateRepositorio {

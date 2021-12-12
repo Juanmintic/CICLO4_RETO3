@@ -12,7 +12,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  *
- * @author USUARIO
+ * @author JUAN JIMENEZ
  */
 @Document(collection = "chocolate")
 @Data

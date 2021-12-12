@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author migue
+ * @author JUAN JIMENEZ
  */
 
 @RestController

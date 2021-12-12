@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author USUARIO
+ * @author JUAN JIMENEZ
  */
 @RestController
 @RequestMapping("/api/chocolate")

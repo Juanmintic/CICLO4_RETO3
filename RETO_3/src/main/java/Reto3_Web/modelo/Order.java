@@ -15,7 +15,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  *
- * @author migue
+ * @author JUAN JIMENEZ
  */
 
 @Document(collection = "orders")
